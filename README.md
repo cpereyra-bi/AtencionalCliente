@@ -1,6 +1,6 @@
 # Análisis de Gestión de Tickets de Servicio
 
-![Dashboard de soporte técnico](img/soporte-contact-center.jpg)
+![Dashboard de soporte técnico](istockphoto-1485585669-612x612.jpg)
 
 *ServiTech* es una empresa ficticia dedicada a ofrecer soluciones tecnológicas a clientes corporativos y particulares. Su equipo de soporte recibe tickets relacionados con fallas técnicas, problemas de acceso, y solicitudes de configuración, entre otros.
 
