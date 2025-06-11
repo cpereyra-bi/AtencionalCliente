@@ -51,6 +51,6 @@ Se utilizó un archivo Excel que contiene el historial de tickets recibidos. Las
 
 ## 📁 Acceso al Proyecto
 
-📈 [Descargar Dashboard Power BI (.pbix)](enlace_al_archivo) 
+📈 [Descargar Dashboard Power BI (.pbix)](dashboard/ServiTech_OK.pbix) 
 
 ---
